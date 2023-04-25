@@ -1,0 +1,11 @@
+D:\Escritorio\pryBaldovinoStream\bin\Debug\pryBaldovinoStream.exe.config
+D:\Escritorio\pryBaldovinoStream\bin\Debug\pryBaldovinoStream.exe
+D:\Escritorio\pryBaldovinoStream\bin\Debug\pryBaldovinoStream.pdb
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.csproj.AssemblyReference.cache
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.Form1.resources
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.Properties.Resources.resources
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.csproj.GenerateResource.cache
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.exe
+D:\Escritorio\pryBaldovinoStream\obj\Debug\pryBaldovinoStream.pdb
